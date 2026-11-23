@@ -1,0 +1,12 @@
+dataset,field,issue,affected_rows,treatment,justification,remaining_risk
+service_requests_raw.csv,service_type,Spelling variation: electrcity,1,Mapped to Electricity,Obvious spelling error referring to the same service category.,Other unknown spelling errors may still exist.
+service_requests_raw.csv,submission_channel,Inconsistent capitalisation: Whatsapp,1,Mapped to WhatsApp,Both values refer to the same messaging platform.,Other inconsistent channel labels may exist.
+service_requests_raw.csv,satisfaction_rating,Invalid rating,1,Flagged for investigation,Ratings must fall within the expected 1 to 5 range.,The original rating must be verified.
+service_requests_raw.csv,resolved_at,Missing resolution dates,215,Retained missing values and flagged for investigation.,Some requests may still be unresolved.,Some completed requests may have missing dates.
+service_requests_raw.csv,resolution_hours,Missing resolution times,214,Calculated from valid timestamps where possible; otherwise retained as missing.,Valid timestamps provide a reliable way to calculate resolution time.,Some missing values may remain unresolved.
+service_requests_raw.csv,created_at and resolved_at,Resolution date before creation date,1,Flagged for investigation.,A request cannot normally be resolved before it is created.,Original timestamps require verification.
+service_requests_raw.csv,resolution_hours,Extreme outlier: 9999 hours (SR00039),1,Flagged for investigation; not automatically removed.,The value exceeds the IQR upper limit of approximately 120.75 hours.,The value may be genuine or caused by a recording error.
+resident_profiles_raw.csv,province,Abbreviation: WC,1,Mapped to Western Cape,WC is a recognised abbreviation for Western Cape.,Other province abbreviations may exist.
+resident_profiles_raw.csv,preferred_language,Inconsistent language label: Zulu,1,Mapped to isiZulu,Both labels refer to the same language.,Other language naming inconsistencies may exist.
+resident_profiles_raw.csv,has_smartphone,Inconsistent value: Y,1,Mapped to Yes,Y is an abbreviation for Yes in a Yes/No field.,Other unexpected responses may exist.
+service_centres_raw.json,operating_hours,Three different formats for the same operating hours,15,Standardised to 08:00-16:30,All three formats represent the same opening and closing times.,Other operating-hour variations may exist.

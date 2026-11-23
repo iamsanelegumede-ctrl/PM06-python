@@ -1,0 +1,401 @@
+resident_id,resident_name,age,province,municipality,monthly_household_income,preferred_language,has_smartphone
+R0001,Resident 1,53,Western Cape,Cape Metro,18211,English,Yes
+R0002,Resident 2,21,Eastern Cape,Nelson Mandela Bay,24575,English,Yes
+R0003,Resident 3,21,Gauteng,Ekurhuleni Metro,1500,Sesotho,No
+R0004,Resident 4,53,Gauteng,Tshwane Metro,10852,English,Yes
+R0005,Resident 5,53,Eastern Cape,Buffalo City,34858,isiZulu,Yes
+R0006,Resident 6,30,Western Cape,Winelands District,42968,isiZulu,No
+R0007,Resident 7,76,KwaZulu-Natal,eThekwini Metro,1500,Afrikaans,Yes
+R0008,Resident 8,unknown,KwaZulu-Natal,King Cetshwayo District,10717,Sesotho,Yes
+R0009,Resident 9,47,Western Cape,Cape Metro,23032,isiXhosa,Yes
+R0010,Resident 10,76,Eastern Cape,Buffalo City,1500,isiZulu,Yes
+R0011,Resident 11,44,KwaZulu-Natal,uMgungundlovu District,9024,English,Yes
+R0012,Resident 12,77,Gauteng,Johannesburg Metro,1631,Afrikaans,No
+R0013,Resident 13,59,Gauteng,Ekurhuleni Metro,29434,isiXhosa,Yes
+R0014,Resident 14,52,KwaZulu-Natal,uMgungundlovu District,1500,English,Yes
+R0015,Resident 15,81,KwaZulu-Natal,eThekwini Metro,1500,Afrikaans,Yes
+R0016,Resident 16,49,KwaZulu-Natal,eThekwini Metro,34229,Sesotho,No
+R0017,Resident 17,69,Eastern Cape,OR Tambo District,1500,isiXhosa,No
+R0018,Resident 18,32,Western Cape,Cape Metro,49493,isiXhosa,Yes
+R0019,Resident 19,26,Eastern Cape,OR Tambo District,5898,Afrikaans,No
+R0020,Resident 20,32,Western Cape,Garden Route District,-5000,Sesotho,No
+R0021,Resident 21,55,KwaZulu-Natal,eThekwini Metro,5897,isiZulu,Yes
+R0022,Resident 22,56,Western Cape,Garden Route District,23258,Sesotho,Yes
+R0023,Resident 23,38,Gauteng,Tshwane Metro,1500,Sesotho,Yes
+R0024,Resident 24,20,KwaZulu-Natal,uMgungundlovu District,12896,English,No
+R0025,Resident 25,25,KwaZulu-Natal,eThekwini Metro,18890,English,Yes
+R0026,Resident 26,34,Eastern Cape,Nelson Mandela Bay,33508,isiXhosa,No
+R0027,Resident 27,85,Gauteng,Tshwane Metro,26755,isiXhosa,Yes
+R0028,Resident 28,65,KwaZulu-Natal,uMgungundlovu District,8956,Afrikaans,No
+R0029,Resident 29,46,Western Cape,Cape Metro,20276,Sesotho,Yes
+R0030,Resident 30,27,Gauteng,Johannesburg Metro,18968,English,Yes
+R0031,Resident 31,60,Western Cape,Cape Metro,25985,Afrikaans,Yes
+R0032,Resident 32,78,Gauteng,Ekurhuleni Metro,21810,isiXhosa,No
+R0033,Resident 33,30,Eastern Cape,Nelson Mandela Bay,28453,Afrikaans,No
+R0033,Resident 34,24,Eastern Cape,OR Tambo District,25290,English,Yes
+R0035,Resident 35,61,Eastern Cape,OR Tambo District,19804,isiXhosa,Yes
+R0036,Resident 36,72,Eastern Cape,Nelson Mandela Bay,12516,isiXhosa,No
+R0037,Resident 37,27,Eastern Cape,Nelson Mandela Bay,1500,Sesotho,Yes
+R0038,Resident 38,19,Western Cape,Garden Route District,26343,English,Yes
+R0039,Resident 39,80,Gauteng,Tshwane Metro,1500,English,Yes
+R0040,Resident 40,67,Eastern Cape,Nelson Mandela Bay,20804,isiZulu,No
+R0041,Resident 41,80,KwaZulu-Natal,uMgungundlovu District,23669,English,Yes
+R0042,Resident 42,24,KwaZulu-Natal,eThekwini Metro,26320,Sesotho,No
+R0043,Resident 43,83,Gauteng,Johannesburg Metro,24740,Sesotho,Yes
+R0044,Resident 44,33,Gauteng,Tshwane Metro,21711,Sesotho,Yes
+R0045,Resident 45,28,Western Cape,Garden Route District,4116,Sesotho,No
+R0046,Resident 46,58,KwaZulu-Natal,eThekwini Metro,25720,isiXhosa,No
+R0047,Resident 47,56,Eastern Cape,Nelson Mandela Bay,1500,English,Yes
+R0048,Resident 48,30,Eastern Cape,OR Tambo District,25329,English,Yes
+R0049,Resident 49,62,KwaZulu-Natal,eThekwini Metro,36079,isiZulu,No
+R0050,Resident 50,56,Gauteng,Tshwane Metro,1500,Sesotho,Yes
+R0051,Resident 51,31,KwaZulu-Natal,King Cetshwayo District,23975,English,Yes
+R0052,Resident 52,54,Gauteng,Tshwane Metro,15587,Sesotho,Yes
+R0053,Resident 53,51,KwaZulu-Natal,eThekwini Metro,8879,English,Yes
+R0054,Resident 54,23,Eastern Cape,Buffalo City,17689,English,No
+R0055,Resident 55,51,Gauteng,Ekurhuleni Metro,24834,Afrikaans,Yes
+R0056,Resident 56,37,WC,Cape Metro,29010,Sesotho,Yes
+R0057,Resident 57,36,KwaZulu-Natal,King Cetshwayo District,14827,isiZulu,Yes
+R0058,Resident 58,49,KwaZulu-Natal,eThekwini Metro,19497,English,No
+R0059,Resident 59,37,Eastern Cape,OR Tambo District,25878,isiXhosa,Yes
+R0060,Resident 60,40,Eastern Cape,Nelson Mandela Bay,14033,isiZulu,No
+R0061,Resident 61,38,Gauteng,Tshwane Metro,19335,English,No
+R0062,Resident 62,76,Gauteng,Johannesburg Metro,12417,isiZulu,No
+R0063,Resident 63,21,Gauteng,Johannesburg Metro,11519,isiZulu,Yes
+R0064,Resident 64,83,KwaZulu-Natal,uMgungundlovu District,7783,Afrikaans,No
+R0065,Resident 65,51,Western Cape,Cape Metro,31344,isiZulu,Yes
+R0066,Resident 66,73,Western Cape,Garden Route District,45709,isiZulu,No
+R0067,Resident 67,83,Eastern Cape,OR Tambo District,37226,isiXhosa,No
+R0068,Resident 68,73,Western Cape,Garden Route District,35089,English,Yes
+R0069,Resident 69,26,KwaZulu-Natal,uMgungundlovu District,43639,Sesotho,No
+R0070,Resident 70,56,Western Cape,Garden Route District,9468,Sesotho,No
+R0071,Resident 71,69,Eastern Cape,Buffalo City,13031,isiXhosa,No
+R0072,Resident 72,40,Eastern Cape,,3573,Sesotho,No
+R0073,Resident 73,18,Eastern Cape,OR Tambo District,15262,Sesotho,No
+R0074,Resident 74,74,Eastern Cape,Buffalo City,25775,isiXhosa,No
+R0075,Resident 75,28,Gauteng,Ekurhuleni Metro,14266,Sesotho,No
+R0076,Resident 76,57,Western Cape,Cape Metro,35321,isiXhosa,Yes
+R0077,Resident 77,23,Gauteng,Johannesburg Metro,18441,English,No
+R0078,Resident 78,42,Eastern Cape,OR Tambo District,31618,Afrikaans,No
+R0079,Resident 79,36,Eastern Cape,Nelson Mandela Bay,17295,English,No
+R0080,Resident 80,84,Gauteng,Johannesburg Metro,16948,Afrikaans,Yes
+R0081,Resident 81,76,Gauteng,Johannesburg Metro,26975,Sesotho,No
+R0082,Resident 82,82,Eastern Cape,OR Tambo District,27969,Afrikaans,No
+R0083,Resident 83,78,Gauteng,Ekurhuleni Metro,1500,isiZulu,No
+R0084,Resident 84,74,Gauteng,Tshwane Metro,24182,English,No
+R0085,Resident 85,60,Gauteng,Tshwane Metro,11655,isiXhosa,Yes
+R0086,Resident 86,37,Gauteng,Tshwane Metro,31545,isiXhosa,Yes
+R0087,Resident 87,60,Eastern Cape,Buffalo City,6001,isiXhosa,No
+R0088,Resident 88,20,Eastern Cape,OR Tambo District,14708,Sesotho,No
+R0089,Resident 89,150,Eastern Cape,Nelson Mandela Bay,14412,Afrikaans,Yes
+R0090,Resident 90,52,Eastern Cape,Nelson Mandela Bay,29378,Afrikaans,No
+R0091,Resident 91,61,Western Cape,Winelands District,7525,isiXhosa,No
+R0092,Resident 92,21,Gauteng,Ekurhuleni Metro,1500,Afrikaans,Yes
+R0093,Resident 93,72,Western Cape,Garden Route District,26788,English,No
+R0094,Resident 94,45,Eastern Cape,Buffalo City,28056,Afrikaans,No
+R0095,Resident 95,53,KwaZulu-Natal,uMgungundlovu District,18286,isiZulu,Yes
+R0096,Resident 96,24,Eastern Cape,Nelson Mandela Bay,1500,isiZulu,Yes
+R0097,Resident 97,23,Western Cape,Garden Route District,18780,isiXhosa,Yes
+R0098,Resident 98,34,Gauteng,Johannesburg Metro,1500,Afrikaans,Yes
+R0099,Resident 99,50,Gauteng,Tshwane Metro,18770,Sesotho,Yes
+R0100,Resident 100,31,Gauteng,Tshwane Metro,10767,Sesotho,Yes
+R0101,Resident 101,66,KwaZulu-Natal,King Cetshwayo District,2855,English,Yes
+R0102,Resident 102,56,Western Cape,Garden Route District,29496,Sesotho,Yes
+R0103,Resident 103,72,Western Cape,Winelands District,15606,isiZulu,Yes
+R0104,Resident 104,31,Eastern Cape,Buffalo City,14146,Afrikaans,No
+R0105,Resident 105,37,Eastern Cape,OR Tambo District,1500,Zulu,No
+R0106,Resident 106,52,Eastern Cape,Buffalo City,25698,isiZulu,Yes
+R0107,Resident 107,75,Western Cape,Winelands District,18517,Sesotho,No
+R0108,Resident 108,81,KwaZulu-Natal,eThekwini Metro,31405,isiZulu,Yes
+R0109,Resident 109,63,Eastern Cape,Nelson Mandela Bay,21240,Sesotho,No
+R0110,Resident 110,42,Western Cape,Garden Route District,7544,English,Yes
+R0111,Resident 111,48,Eastern Cape,Buffalo City,11696,Afrikaans,No
+R0112,Resident 112,55,Western Cape,Cape Metro,1898,isiXhosa,No
+R0113,Resident 113,65,Gauteng,Tshwane Metro,3442,Afrikaans,No
+R0114,Resident 114,76,KwaZulu-Natal,King Cetshwayo District,20469,isiZulu,No
+R0115,Resident 115,33,KwaZulu-Natal,eThekwini Metro,16124,Sesotho,Yes
+R0116,Resident 116,79,Gauteng,Johannesburg Metro,7720,isiZulu,No
+R0117,Resident 117,55,Western Cape,Cape Metro,19064,English,Yes
+R0118,Resident 118,24,KwaZulu-Natal,eThekwini Metro,25471,Sesotho,No
+R0119,Resident 119,80,Gauteng,Ekurhuleni Metro,19507,isiZulu,No
+R0120,Resident 120,61,Eastern Cape,Buffalo City,19132,isiXhosa,Yes
+R0121,Resident 121,32,KwaZulu-Natal,uMgungundlovu District,23315,English,Yes
+R0122,Resident 122,56,Gauteng,Johannesburg Metro,7082,English,Y
+R0123,Resident 123,71,Western Cape,Garden Route District,1500,isiXhosa,No
+R0124,Resident 124,56,Eastern Cape,Buffalo City,4852,Sesotho,No
+R0125,Resident 125,25,KwaZulu-Natal,King Cetshwayo District,2792,isiXhosa,Yes
+R0126,Resident 126,28,KwaZulu-Natal,King Cetshwayo District,5478,isiXhosa,Yes
+R0127,Resident 127,27,Gauteng,Ekurhuleni Metro,24814,Sesotho,No
+R0128,Resident 128,47,KwaZulu-Natal,eThekwini Metro,28237,isiZulu,No
+R0129,Resident 129,47,Eastern Cape,Nelson Mandela Bay,36761,Sesotho,Yes
+R0130,Resident 130,46,Eastern Cape,Nelson Mandela Bay,8278,isiXhosa,No
+R0131,Resident 131,25,Gauteng,Johannesburg Metro,23186,Sesotho,No
+R0132,Resident 132,77,Eastern Cape,Nelson Mandela Bay,26886,isiZulu,No
+R0133,Resident 133,81,KwaZulu-Natal,King Cetshwayo District,3021,Afrikaans,No
+R0134,Resident 134,29,KwaZulu-Natal,eThekwini Metro,24175,isiXhosa,Yes
+R0135,Resident 135,23,KwaZulu-Natal,King Cetshwayo District,18612,Sesotho,No
+R0136,Resident 136,73,KwaZulu-Natal,eThekwini Metro,10577,Afrikaans,Yes
+R0137,Resident 137,70,Eastern Cape,Buffalo City,9066,isiXhosa,No
+R0138,Resident 138,81,Eastern Cape,OR Tambo District,33479,isiZulu,No
+R0139,Resident 139,29,Western Cape,Winelands District,13817,Afrikaans,Yes
+R0140,Resident 140,24,Eastern Cape,Buffalo City,27745,isiXhosa,No
+R0141,Resident 141,74,Eastern Cape,OR Tambo District,18507,Sesotho,Yes
+R0142,Resident 142,80,KwaZulu-Natal,uMgungundlovu District,9919,English,Yes
+R0143,Resident 143,38,Gauteng,Ekurhuleni Metro,17258,Afrikaans,Yes
+R0144,Resident 144,77,Gauteng,Johannesburg Metro,19848,English,Yes
+R0145,Resident 145,55,Eastern Cape,OR Tambo District,8423,Afrikaans,No
+R0146,Resident 146,36,Gauteng,Tshwane Metro,17465,Afrikaans,Yes
+R0147,Resident 147,53,Gauteng,Johannesburg Metro,21344,isiZulu,No
+R0148,Resident 148,56,Western Cape,Winelands District,1500,Sesotho,No
+R0149,Resident 149,79,Gauteng,Tshwane Metro,9443,Sesotho,No
+R0150,Resident 150,42,Eastern Cape,Buffalo City,30569,isiXhosa,No
+R0151,Resident 151,23,Gauteng,Tshwane Metro,12358,Afrikaans,No
+R0152,Resident 152,22,Gauteng,Tshwane Metro,30354,isiXhosa,No
+R0153,Resident 153,30,Western Cape,Winelands District,4915,isiXhosa,No
+R0154,Resident 154,78,Gauteng,Johannesburg Metro,15847,isiZulu,No
+R0155,Resident 155,28,Eastern Cape,OR Tambo District,32005,Sesotho,No
+R0156,Resident 156,80,KwaZulu-Natal,King Cetshwayo District,1500,Sesotho,Yes
+R0157,Resident 157,54,Western Cape,Cape Metro,37885,Afrikaans,Yes
+R0158,Resident 158,39,Western Cape,Winelands District,17678,isiZulu,Yes
+R0159,Resident 159,25,Western Cape,Winelands District,14869,isiXhosa,Yes
+R0160,Resident 160,41,Eastern Cape,OR Tambo District,29202,isiXhosa,Yes
+R0161,Resident 161,66,Western Cape,Garden Route District,11495,Sesotho,Yes
+R0162,Resident 162,50,Gauteng,Tshwane Metro,11913,Afrikaans,No
+R0163,Resident 163,54,Western Cape,Winelands District,14908,Afrikaans,No
+R0164,Resident 164,72,KwaZulu-Natal,King Cetshwayo District,11678,isiZulu,No
+R0165,Resident 165,67,KwaZulu-Natal,eThekwini Metro,21445,Afrikaans,No
+R0166,Resident 166,55,KwaZulu-Natal,King Cetshwayo District,13460,English,No
+R0167,Resident 167,24,KwaZulu-Natal,eThekwini Metro,34795,isiZulu,Yes
+R0168,Resident 168,42,KwaZulu-Natal,eThekwini Metro,7432,Sesotho,No
+R0169,Resident 169,30,Gauteng,Ekurhuleni Metro,32211,isiZulu,No
+R0170,Resident 170,64,Western Cape,Garden Route District,8131,isiXhosa,Yes
+R0171,Resident 171,71,KwaZulu-Natal,uMgungundlovu District,20877,Sesotho,No
+R0172,Resident 172,50,KwaZulu-Natal,eThekwini Metro,23704,Afrikaans,No
+R0173,Resident 173,77,KwaZulu-Natal,eThekwini Metro,24431,isiXhosa,No
+R0174,Resident 174,68,KwaZulu-Natal,eThekwini Metro,16472,English,No
+R0175,Resident 175,65,Western Cape,Winelands District,9644,Sesotho,No
+R0176,Resident 176,47,KwaZulu-Natal,eThekwini Metro,2140,Afrikaans,Yes
+R0177,Resident 177,46,KwaZulu-Natal,King Cetshwayo District,7778,Afrikaans,No
+R0178,Resident 178,35,Eastern Cape,Nelson Mandela Bay,4358,English,Yes
+R0179,Resident 179,32,KwaZulu-Natal,uMgungundlovu District,38540,isiXhosa,No
+R0180,Resident 180,71,Eastern Cape,Buffalo City,32376,Sesotho,Yes
+R0181,Resident 181,30,Eastern Cape,OR Tambo District,"R 25,000",isiZulu,Yes
+R0182,Resident 182,74,KwaZulu-Natal,eThekwini Metro,3647,Afrikaans,Yes
+R0183,Resident 183,65,KwaZulu-Natal,eThekwini Metro,1500,isiZulu,Yes
+R0184,Resident 184,42,Eastern Cape,Buffalo City,8865,English,No
+R0185,Resident 185,45,Western Cape,Garden Route District,7819,English,Yes
+R0186,Resident 186,34,KwaZulu-Natal,eThekwini Metro,5422,Sesotho,Yes
+R0187,Resident 187,44,Western Cape,Garden Route District,1500,isiXhosa,No
+R0188,Resident 188,18,Gauteng,Ekurhuleni Metro,6649,isiZulu,Yes
+R0189,Resident 189,50,Gauteng,Ekurhuleni Metro,19738,English,Yes
+R0190,Resident 190,48,Western Cape,Winelands District,12475,Sesotho,No
+R0191,Resident 191,51,Western Cape,Cape Metro,36684,Sesotho,Yes
+R0192,Resident 192,75,Western Cape,Winelands District,24383,isiZulu,Yes
+R0193,Resident 193,46,Eastern Cape,OR Tambo District,21365,Sesotho,No
+R0194,Resident 194,21,Eastern Cape,OR Tambo District,16798,English,No
+R0195,Resident 195,31,Eastern Cape,Buffalo City,1500,English,Yes
+R0196,Resident 196,36,KwaZulu-Natal,King Cetshwayo District,19608,English,Yes
+R0197,Resident 197,59,KwaZulu-Natal,King Cetshwayo District,6137,isiZulu,No
+R0198,Resident 198,32,Eastern Cape,Nelson Mandela Bay,29013,Sesotho,Yes
+R0199,Resident 199,47,Eastern Cape,Buffalo City,1500,Afrikaans,No
+R0200,Resident 200,72,Western Cape,Winelands District,29594,isiZulu,No
+R0201,Resident 201,78,KwaZulu-Natal,eThekwini Metro,38671,English,No
+R0202,Resident 202,65,Western Cape,Garden Route District,27276,isiXhosa,Yes
+R0203,Resident 203,33,KwaZulu-Natal,King Cetshwayo District,1500,Afrikaans,Yes
+R0204,Resident 204,57,KwaZulu-Natal,King Cetshwayo District,30972,isiZulu,Yes
+R0205,Resident 205,79,Gauteng,Johannesburg Metro,18925,Sesotho,No
+R0206,Resident 206,46,Western Cape,Winelands District,23668,Afrikaans,Yes
+R0207,Resident 207,41,KwaZulu-Natal,eThekwini Metro,15035,isiZulu,No
+R0208,Resident 208,36,Western Cape,Cape Metro,38127,Sesotho,No
+R0209,Resident 209,21,Western Cape,Cape Metro,30370,Afrikaans,No
+R0210,Resident 210,38,Eastern Cape,Buffalo City,26043,isiZulu,No
+R0211,Resident 211,28,KwaZulu-Natal,King Cetshwayo District,23186,Sesotho,Yes
+R0212,Resident 212,74,Western Cape,Winelands District,13330,Afrikaans,No
+R0213,Resident 213,52,Eastern Cape,Buffalo City,21087,isiZulu,No
+R0214,Resident 214,80,Western Cape,Winelands District,32046,Sesotho,No
+R0215,Resident 215,68,Western Cape,Cape Metro,22008,isiXhosa,No
+R0216,Resident 216,50,Gauteng,Johannesburg Metro,17606,isiZulu,No
+R0217,Resident 217,81,Western Cape,Cape Metro,17860,Afrikaans,Yes
+R0218,Resident 218,68,KwaZulu-Natal,eThekwini Metro,10541,English,No
+R0219,Resident 219,27,Western Cape,Winelands District,28176,Sesotho,No
+R0220,Resident 220,32,Eastern Cape,Buffalo City,6025,Afrikaans,Yes
+R0221,Resident 221,76,KwaZulu-Natal,eThekwini Metro,31285,English,No
+R0222,Resident 222,73,Western Cape,Cape Metro,1500,Sesotho,No
+R0223,Resident 223,57,Western Cape,Winelands District,17776,isiXhosa,Yes
+R0224,Resident 224,83,Western Cape,Garden Route District,9509,isiXhosa,No
+R0225,Resident 225,36,KwaZulu-Natal,King Cetshwayo District,18581,isiXhosa,Yes
+R0226,Resident 226,27,Gauteng,Ekurhuleni Metro,24727,isiXhosa,No
+R0227,Resident 227,75,Eastern Cape,OR Tambo District,7596,Sesotho,No
+R0228,Resident 228,74,KwaZulu-Natal,eThekwini Metro,1500,English,No
+R0229,Resident 229,56,Eastern Cape,OR Tambo District,22607,isiZulu,Yes
+R0230,Resident 230,75,KwaZulu-Natal,uMgungundlovu District,2619,English,Yes
+R0231,Resident 231,27,KwaZulu-Natal,uMgungundlovu District,1500,English,No
+R0232,Resident 232,23,Eastern Cape,OR Tambo District,1500,Afrikaans,Yes
+R0233,Resident 233,78,KwaZulu-Natal,King Cetshwayo District,1500,Afrikaans,Yes
+R0234,Resident 234,28,KwaZulu-Natal,King Cetshwayo District,17740,Sesotho,Yes
+R0235,Resident 235,74,Western Cape,Cape Metro,32599,Sesotho,Yes
+R0236,Resident 236,54,KwaZulu-Natal,uMgungundlovu District,17172,Afrikaans,No
+R0237,Resident 237,24,KwaZulu-Natal,King Cetshwayo District,22226,English,No
+R0238,Resident 238,67,Western Cape,Garden Route District,1500,isiZulu,No
+R0239,Resident 239,28,Gauteng,Tshwane Metro,12248,isiZulu,No
+R0240,Resident 240,28,Eastern Cape,Nelson Mandela Bay,14707,isiZulu,No
+R0241,,85,KwaZulu-Natal,eThekwini Metro,32885,Sesotho,No
+R0242,Resident 242,57,Western Cape,Winelands District,27905,isiXhosa,Yes
+R0243,Resident 243,42,KwaZulu-Natal,uMgungundlovu District,18958,English,No
+R0244,Resident 244,85,Western Cape,Garden Route District,24457,English,No
+R0245,Resident 245,66,Gauteng,Ekurhuleni Metro,22289,Sesotho,Yes
+R0246,Resident 246,70,Eastern Cape,Nelson Mandela Bay,24248,isiZulu,Yes
+R0247,Resident 247,54,Eastern Cape,OR Tambo District,18315,isiXhosa,Yes
+R0248,Resident 248,42,KwaZulu-Natal,uMgungundlovu District,1500,isiZulu,No
+R0249,Resident 249,66,Eastern Cape,Buffalo City,5503,isiXhosa,Yes
+R0250,Resident 250,24,Gauteng,Tshwane Metro,17771,Afrikaans,No
+R0251,Resident 251,84,Western Cape,Garden Route District,23836,isiXhosa,No
+R0252,Resident 252,36,Eastern Cape,OR Tambo District,10089,Afrikaans,Yes
+R0253,Resident 253,62,Gauteng,Tshwane Metro,29257,Afrikaans,No
+R0254,Resident 254,28,Gauteng,Tshwane Metro,12743,isiZulu,Yes
+R0255,Resident 255,30,Western Cape,Winelands District,27240,isiXhosa,Yes
+R0256,Resident 256,78,Western Cape,Winelands District,3271,isiXhosa,No
+R0257,Resident 257,18,Eastern Cape,OR Tambo District,19951,isiXhosa,Yes
+R0258,Resident 258,54,Eastern Cape,Nelson Mandela Bay,16689,isiXhosa,No
+R0259,Resident 259,48,Western Cape,Cape Metro,1500,Afrikaans,Yes
+R0260,Resident 260,20,Western Cape,Winelands District,28295,Sesotho,Yes
+R0261,Resident 261,72,Gauteng,Tshwane Metro,29193,Sesotho,No
+R0262,Resident 262,28,Gauteng,Ekurhuleni Metro,18110,Sesotho,No
+R0263,Resident 263,82,Western Cape,Garden Route District,21239,English,No
+R0264,Resident 264,67,Eastern Cape,Nelson Mandela Bay,4087,isiZulu,No
+R0265,Resident 265,26,Western Cape,Winelands District,7059,English,No
+R0266,Resident 266,63,Gauteng,Johannesburg Metro,34141,Sesotho,No
+R0267,Resident 267,77,Gauteng,Ekurhuleni Metro,31594,isiXhosa,Yes
+R0268,Resident 268,76,Western Cape,Garden Route District,16353,English,No
+R0269,Resident 269,43,Gauteng,Johannesburg Metro,25873,isiZulu,No
+R0270,Resident 270,22,Eastern Cape,Buffalo City,11128,isiXhosa,No
+R0271,Resident 271,60,KwaZulu-Natal,eThekwini Metro,14873,Afrikaans,No
+R0272,Resident 272,61,Eastern Cape,Buffalo City,39279,isiXhosa,No
+R0273,Resident 273,84,Eastern Cape,Buffalo City,17477,Afrikaans,Yes
+R0274,Resident 274,41,Eastern Cape,OR Tambo District,22955,Sesotho,No
+R0275,Resident 275,28,KwaZulu-Natal,eThekwini Metro,13275,Afrikaans,No
+R0276,Resident 276,74,Gauteng,Ekurhuleni Metro,26866,isiZulu,No
+R0277,Resident 277,63,Western Cape,Garden Route District,8374,English,Yes
+R0278,Resident 278,83,Eastern Cape,Buffalo City,9529,isiXhosa,Yes
+R0279,Resident 279,74,Gauteng,Ekurhuleni Metro,22370,isiZulu,No
+R0280,Resident 280,22,Eastern Cape,OR Tambo District,18971,Sesotho,Yes
+R0281,Resident 281,65,Eastern Cape,Buffalo City,13494,isiXhosa,No
+R0282,Resident 282,53,Eastern Cape,Buffalo City,19656,isiXhosa,Yes
+R0283,Resident 283,41,Western Cape,Garden Route District,6128,Sesotho,Yes
+R0284,Resident 284,75,KwaZulu-Natal,uMgungundlovu District,18071,isiXhosa,No
+R0285,Resident 285,33,Eastern Cape,Nelson Mandela Bay,21096,isiXhosa,No
+R0286,Resident 286,58,Western Cape,Garden Route District,21545,isiZulu,Yes
+R0287,Resident 287,38,KwaZulu-Natal,uMgungundlovu District,11469,isiXhosa,No
+R0288,Resident 288,43,Gauteng,Johannesburg Metro,1500,isiXhosa,Yes
+R0289,Resident 289,64,Eastern Cape,Nelson Mandela Bay,7143,Sesotho,Yes
+R0290,Resident 290,57,Western Cape,Cape Metro,14166,Afrikaans,No
+R0291,Resident 291,27,Eastern Cape,Buffalo City,25394,English,No
+R0292,Resident 292,84,Eastern Cape,OR Tambo District,25425,isiZulu,Yes
+R0293,Resident 293,73,Gauteng,Johannesburg Metro,1500,English,Yes
+R0294,Resident 294,38,KwaZulu-Natal,eThekwini Metro,17565,isiZulu,Yes
+R0295,Resident 295,54,KwaZulu-Natal,King Cetshwayo District,23167,Sesotho,No
+R0296,Resident 296,56,Gauteng,Ekurhuleni Metro,10491,Sesotho,Yes
+R0297,Resident 297,37,Gauteng,Ekurhuleni Metro,25979,Sesotho,No
+R0298,Resident 298,28,Western Cape,Cape Metro,32778,English,No
+R0299,Resident 299,71,Gauteng,Ekurhuleni Metro,15806,Sesotho,No
+R0300,Resident 300,49,KwaZulu-Natal,uMgungundlovu District,15988,Afrikaans,No
+R0301,Resident 301,25,Eastern Cape,Nelson Mandela Bay,24791,Afrikaans,Yes
+R0302,Resident 302,36,KwaZulu-Natal,King Cetshwayo District,28421,isiZulu,No
+R0303,Resident 303,34,KwaZulu-Natal,uMgungundlovu District,18966,English,No
+R0304,Resident 304,33,Gauteng,Tshwane Metro,3596,isiZulu,No
+R0305,Resident 305,30,Gauteng,Johannesburg Metro,45486,Sesotho,No
+R0306,Resident 306,59,Gauteng,Johannesburg Metro,27046,Sesotho,No
+R0307,Resident 307,81,Gauteng,Johannesburg Metro,31453,isiZulu,No
+R0308,Resident 308,68,Western Cape,Cape Metro,17659,Sesotho,No
+R0309,Resident 309,63,Gauteng,Johannesburg Metro,27302,Sesotho,No
+R0310,Resident 310,19,KwaZulu-Natal,King Cetshwayo District,20936,English,No
+R0311,Resident 311,64,Gauteng,Tshwane Metro,18996,Afrikaans,Yes
+R0312,Resident 312,54,Gauteng,Tshwane Metro,6588,English,No
+R0313,Resident 313,53,Eastern Cape,OR Tambo District,25641,Sesotho,Yes
+R0314,Resident 314,68,Gauteng,Johannesburg Metro,3075,isiZulu,No
+R0315,Resident 315,43,KwaZulu-Natal,eThekwini Metro,8276,English,Yes
+R0316,Resident 316,60,Western Cape,Cape Metro,10703,Afrikaans,No
+R0317,Resident 317,83,Gauteng,Ekurhuleni Metro,35735,isiZulu,Yes
+R0318,Resident 318,56,Eastern Cape,OR Tambo District,39378,Sesotho,No
+R0319,Resident 319,56,Eastern Cape,OR Tambo District,15829,isiZulu,Yes
+R0320,Resident 320,57,Eastern Cape,OR Tambo District,18345,English,No
+R0321,Resident 321,47,KwaZulu-Natal,King Cetshwayo District,15161,isiXhosa,No
+R0322,Resident 322,49,Gauteng,Ekurhuleni Metro,2372,English,Yes
+R0323,Resident 323,74,Gauteng,Johannesburg Metro,15320,isiXhosa,No
+R0324,Resident 324,25,Eastern Cape,OR Tambo District,24333,isiXhosa,Yes
+R0325,Resident 325,79,KwaZulu-Natal,King Cetshwayo District,7719,isiXhosa,No
+R0326,Resident 326,63,KwaZulu-Natal,King Cetshwayo District,16340,isiZulu,No
+R0327,Resident 327,53,Gauteng,Johannesburg Metro,9999,isiZulu,No
+R0328,Resident 328,80,Gauteng,Ekurhuleni Metro,14942,isiZulu,No
+R0329,Resident 329,53,KwaZulu-Natal,King Cetshwayo District,14315,Sesotho,No
+R0330,Resident 330,36,Eastern Cape,Buffalo City,33225,isiZulu,Yes
+R0331,Resident 331,28,KwaZulu-Natal,King Cetshwayo District,10618,isiZulu,No
+R0332,Resident 332,52,Gauteng,Johannesburg Metro,28664,Sesotho,No
+R0333,Resident 333,48,Gauteng,Johannesburg Metro,18846,Sesotho,Yes
+R0334,Resident 334,30,Gauteng,Johannesburg Metro,35844,Afrikaans,No
+R0335,Resident 335,35,Eastern Cape,Nelson Mandela Bay,33164,isiXhosa,No
+R0336,Resident 336,43,Eastern Cape,Buffalo City,18493,isiZulu,No
+R0337,Resident 337,25,KwaZulu-Natal,King Cetshwayo District,22350,Sesotho,Yes
+R0338,Resident 338,71,Western Cape,Cape Metro,15159,isiXhosa,Yes
+R0339,Resident 339,41,Eastern Cape,Buffalo City,46301,isiZulu,Yes
+R0340,Resident 340,31,Western Cape,Winelands District,6090,isiZulu,No
+R0341,Resident 341,85,Eastern Cape,OR Tambo District,1500,Sesotho,No
+R0342,Resident 342,32,KwaZulu-Natal,eThekwini Metro,19083,isiZulu,Yes
+R0343,Resident 343,50,Eastern Cape,OR Tambo District,17603,isiZulu,No
+R0344,Resident 344,69,Gauteng,Johannesburg Metro,16018,Afrikaans,No
+R0345,Resident 345,30,Western Cape,Winelands District,20631,isiZulu,Yes
+R0346,Resident 346,67,Western Cape,Winelands District,24059,isiXhosa,No
+R0347,Resident 347,56,KwaZulu-Natal,uMgungundlovu District,4401,isiZulu,No
+R0348,Resident 348,33,Gauteng,Johannesburg Metro,10248,Afrikaans,No
+R0349,Resident 349,82,Gauteng,Tshwane Metro,40226,isiZulu,Yes
+R0350,Resident 350,46,KwaZulu-Natal,uMgungundlovu District,6339,isiXhosa,Yes
+R0351,Resident 351,76,Eastern Cape,Nelson Mandela Bay,17766,Afrikaans,No
+R0352,Resident 352,28,Gauteng,Johannesburg Metro,1629,Sesotho,No
+R0353,Resident 353,32,KwaZulu-Natal,eThekwini Metro,31991,Sesotho,Yes
+R0354,Resident 354,59,Gauteng,Johannesburg Metro,23719,Sesotho,No
+R0355,Resident 355,44,Western Cape,Garden Route District,15131,Sesotho,No
+R0356,Resident 356,34,Western Cape,Winelands District,4397,Sesotho,No
+R0357,Resident 357,25,Eastern Cape,OR Tambo District,1500,isiZulu,Yes
+R0358,Resident 358,18,Eastern Cape,Buffalo City,11523,isiXhosa,Yes
+R0359,Resident 359,62,Western Cape,Winelands District,13405,English,Yes
+R0360,Resident 360,54,Eastern Cape,Nelson Mandela Bay,3742,Afrikaans,Yes
+R0361,Resident 361,71,Gauteng,Ekurhuleni Metro,1500,Afrikaans,No
+R0362,Resident 362,35,Eastern Cape,Nelson Mandela Bay,35937,isiZulu,Yes
+R0363,Resident 363,68,Gauteng,Ekurhuleni Metro,1500,isiXhosa,Yes
+R0364,Resident 364,77,Western Cape,Winelands District,14510,Sesotho,No
+R0365,Resident 365,49,Eastern Cape,Nelson Mandela Bay,11244,isiXhosa,Yes
+R0366,Resident 366,71,Western Cape,Garden Route District,19706,Sesotho,Yes
+R0367,Resident 367,26,Gauteng,Johannesburg Metro,20526,Sesotho,Yes
+R0368,Resident 368,23,Gauteng,Ekurhuleni Metro,19857,Afrikaans,No
+R0369,Resident 369,45,Gauteng,Ekurhuleni Metro,18571,isiXhosa,No
+R0370,Resident 370,58,Gauteng,Ekurhuleni Metro,1500,Sesotho,No
+R0371,Resident 371,36,Gauteng,Tshwane Metro,32506,Afrikaans,No
+R0372,Resident 372,40,KwaZulu-Natal,eThekwini Metro,16692,Afrikaans,No
+R0373,Resident 373,66,Western Cape,Winelands District,20345,Afrikaans,No
+R0374,Resident 374,66,Gauteng,Tshwane Metro,7751,isiXhosa,No
+R0375,Resident 375,56,Gauteng,Johannesburg Metro,22190,Afrikaans,Yes
+R0376,Resident 376,85,Eastern Cape,Buffalo City,12771,isiXhosa,No
+R0377,Resident 377,44,Gauteng,Tshwane Metro,15646,Afrikaans,No
+R0378,Resident 378,42,Western Cape,Garden Route District,22264,English,No
+R0379,Resident 379,23,Eastern Cape,OR Tambo District,23431,Sesotho,Yes
+R0380,Resident 380,60,Eastern Cape,Nelson Mandela Bay,12473,isiZulu,Yes
+R0381,Resident 381,33,Gauteng,Johannesburg Metro,17605,isiXhosa,Yes
+R0382,Resident 382,59,Eastern Cape,Nelson Mandela Bay,1500,isiZulu,No
+R0383,Resident 383,63,Eastern Cape,OR Tambo District,13933,Afrikaans,No
+R0384,Resident 384,78,Western Cape,Garden Route District,28575,isiZulu,Yes
+R0385,Resident 385,70,KwaZulu-Natal,uMgungundlovu District,40992,isiXhosa,Yes
+R0386,Resident 386,71,KwaZulu-Natal,King Cetshwayo District,24792,isiZulu,Yes
+R0387,Resident 387,47,Gauteng,Tshwane Metro,1500,Afrikaans,No
+R0388,Resident 388,80,KwaZulu-Natal,uMgungundlovu District,33567,Afrikaans,Yes
+R0389,Resident 389,35,KwaZulu-Natal,eThekwini Metro,15423,Sesotho,Yes
+R0390,Resident 390,24,Western Cape,Cape Metro,4349,English,No
+R0391,Resident 391,47,Gauteng,Ekurhuleni Metro,24250,isiXhosa,No
+R0392,Resident 392,79,KwaZulu-Natal,eThekwini Metro,20844,Afrikaans,Yes
+R0393,Resident 393,70,Western Cape,Garden Route District,32693,isiZulu,No
+R0394,Resident 394,73,Western Cape,Garden Route District,19096,isiXhosa,Yes
+R0395,Resident 395,37,Western Cape,Garden Route District,18946,isiZulu,No
+R0396,Resident 396,28,KwaZulu-Natal,uMgungundlovu District,34661,isiZulu,No
+R0397,Resident 397,49,Eastern Cape,OR Tambo District,26570,English,Yes
+R0398,Resident 398,66,Western Cape,Winelands District,17473,Afrikaans,No
+R0399,Resident 399,19,Western Cape,Garden Route District,16544,Afrikaans,No
+R0400,Resident 400,23,Western Cape,Garden Route District,13231,isiXhosa,Yes

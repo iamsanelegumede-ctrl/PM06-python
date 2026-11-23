@@ -1,0 +1,256 @@
+{
+  "generated_on": "2026-07-30",
+  "source": "CityConnect Operations System",
+  "centres": [
+    {
+      "centre_id": "C001",
+      "centre_name": "Cape Metro Service Centre 1",
+      "province": "Western Cape",
+      "municipality": "Cape Metro",
+      "staff_count": 23,
+      "monthly_capacity": 867,
+      "operating_hours": "08h00 to 16h30",
+      "active": true
+    },
+    {
+      "centre_id": "C002",
+      "centre_name": "Cape Metro Service Centre 2",
+      "province": "Western Cape",
+      "municipality": "Cape Metro",
+      "staff_count": 46,
+      "monthly_capacity": 1041,
+      "operating_hours": "8am-4:30pm",
+      "active": false
+    },
+    {
+      "centre_id": "C003",
+      "centre_name": "Winelands District Service Centre 3",
+      "province": "Western Cape",
+      "municipality": "Winelands District",
+      "staff_count": 27,
+      "monthly_capacity": 432,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C004",
+      "centre_name": "Winelands District Service Centre 4",
+      "province": "Western Cape",
+      "municipality": "Winelands District",
+      "staff_count": "twenty",
+      "monthly_capacity": 1222,
+      "operating_hours": "8am-4:30pm",
+      "active": false
+    },
+    {
+      "centre_id": "C005",
+      "centre_name": "Garden Route District Service Centre 5",
+      "province": "Western Cape",
+      "municipality": "Garden Route District",
+      "staff_count": 45,
+      "monthly_capacity": 408,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C006",
+      "centre_name": "Garden Route District Service Centre 6",
+      "province": "Western Cape",
+      "municipality": "Garden Route District",
+      "staff_count": 27,
+      "monthly_capacity": 2165,
+      "operating_hours": "08h00 to 16h30",
+      "active": true
+    },
+    {
+      "centre_id": "C007",
+      "centre_name": "Johannesburg Metro Service Centre 7",
+      "province": "Gauteng",
+      "municipality": "Johannesburg Metro",
+      "staff_count": 44,
+      "monthly_capacity": 1889,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C008",
+      "centre_name": "Johannesburg Metro Service Centre 8",
+      "province": "Gauteng",
+      "municipality": "Johannesburg Metro",
+      "staff_count": 50,
+      "monthly_capacity": -100,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C009",
+      "centre_name": "Tshwane Metro Service Centre 9",
+      "province": "Gauteng",
+      "municipality": "Tshwane Metro",
+      "staff_count": 27,
+      "monthly_capacity": 1973,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C010",
+      "centre_name": "Tshwane Metro Service Centre 10",
+      "province": "Gauteng",
+      "municipality": "Tshwane Metro",
+      "staff_count": 37,
+      "monthly_capacity": 1160,
+      "operating_hours": "08:00-16:30",
+      "active": false
+    },
+    {
+      "centre_id": "C011",
+      "centre_name": "Ekurhuleni Metro Service Centre 11",
+      "province": "Gauteng",
+      "municipality": "Johannesburg",
+      "staff_count": 8,
+      "monthly_capacity": 1698,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C012",
+      "centre_name": "Ekurhuleni Metro Service Centre 12",
+      "province": "Gauteng",
+      "municipality": "Ekurhuleni Metro",
+      "staff_count": 19,
+      "monthly_capacity": 967,
+      "operating_hours": "8am-4:30pm",
+      "active": true
+    },
+    {
+      "centre_id": "C013",
+      "centre_name": "eThekwini Metro Service Centre 13",
+      "province": "KwaZulu-Natal",
+      "municipality": "eThekwini Metro",
+      "staff_count": 19,
+      "monthly_capacity": 833,
+      "operating_hours": "08:00-16:30",
+      "active": false
+    },
+    {
+      "centre_id": "C014",
+      "centre_name": "eThekwini Metro Service Centre 14",
+      "province": "KwaZulu-Natal",
+      "municipality": "eThekwini Metro",
+      "staff_count": 13,
+      "monthly_capacity": 1833,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C015",
+      "centre_name": "uMgungundlovu District Service Centre 15",
+      "province": "KwaZulu-Natal",
+      "municipality": "uMgungundlovu District",
+      "staff_count": 51,
+      "monthly_capacity": 1487,
+      "operating_hours": "8am-4:30pm",
+      "active": true
+    },
+    {
+      "centre_id": "C016",
+      "centre_name": "uMgungundlovu District Service Centre 16",
+      "province": "KwaZulu-Natal",
+      "municipality": "uMgungundlovu District",
+      "staff_count": 38,
+      "monthly_capacity": 676,
+      "operating_hours": "8am-4:30pm",
+      "active": true
+    },
+    {
+      "centre_id": "C017",
+      "centre_name": "King Cetshwayo District Service Centre 17",
+      "province": "KwaZulu-Natal",
+      "municipality": "King Cetshwayo District",
+      "staff_count": 38,
+      "monthly_capacity": 1476,
+      "operating_hours": "08h00 to 16h30",
+      "active": false
+    },
+    {
+      "centre_id": "C018",
+      "centre_name": "King Cetshwayo District Service Centre 18",
+      "province": "KwaZulu-Natal",
+      "municipality": "King Cetshwayo District",
+      "staff_count": 52,
+      "monthly_capacity": 785,
+      "operating_hours": "8am-4:30pm",
+      "active": false
+    },
+    {
+      "centre_id": "C019",
+      "centre_name": "Nelson Mandela Bay Service Centre 19",
+      "province": "Eastern Cape",
+      "municipality": "Nelson Mandela Bay",
+      "staff_count": 37,
+      "monthly_capacity": 1796,
+      "operating_hours": "08:00-16:30",
+      "active": true
+    },
+    {
+      "centre_id": "C020",
+      "centre_name": "Nelson Mandela Bay Service Centre 20",
+      "province": "Eastern Cape",
+      "municipality": "Nelson Mandela Bay",
+      "staff_count": 32,
+      "monthly_capacity": 613,
+      "operating_hours": "8am-4:30pm",
+      "active": true
+    },
+    {
+      "centre_id": "C021",
+      "centre_name": "Buffalo City Service Centre 21",
+      "province": "Eastern Cape",
+      "municipality": "Buffalo City",
+      "staff_count": 33,
+      "monthly_capacity": 1933,
+      "operating_hours": "8am-4:30pm",
+      "active": true
+    },
+    {
+      "centre_id": "C022",
+      "centre_name": "Buffalo City Service Centre 22",
+      "province": "Eastern Cape",
+      "municipality": "Buffalo City",
+      "staff_count": 51,
+      "monthly_capacity": 1845,
+      "operating_hours": "8am-4:30pm",
+      "active": false
+    },
+    {
+      "centre_id": "C023",
+      "centre_name": "OR Tambo District Service Centre 23",
+      "province": "Eastern Cape",
+      "municipality": "OR Tambo District",
+      "staff_count": 42,
+      "monthly_capacity": 496,
+      "operating_hours": "8am-4:30pm",
+      "active": false
+    },
+    {
+      "centre_id": "C024",
+      "centre_name": "OR Tambo District Service Centre 24",
+      "province": "Eastern Cape",
+      "municipality": "OR Tambo District",
+      "staff_count": 50,
+      "monthly_capacity": 1866,
+      "operating_hours": "08h00 to 16h30",
+      "active": true
+    },
+    {
+      "centre_id": "C006",
+      "centre_name": "Garden Route District Service Centre 6",
+      "province": "Western Cape",
+      "municipality": "Garden Route District",
+      "staff_count": 27,
+      "monthly_capacity": 2165,
+      "operating_hours": "08h00 to 16h30",
+      "active": true
+    }
+  ]
+}
